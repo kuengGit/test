@@ -11,3 +11,4 @@ conda list   (shows list of packages)
  conda env list (shows list of environments)
 
 
+ git checkout -b dev2
