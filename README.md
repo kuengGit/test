@@ -10,4 +10,4 @@ conda list   (shows list of packages)
 
  conda env list (shows list of environments)
 
-
+test
